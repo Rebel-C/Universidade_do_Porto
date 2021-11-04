@@ -1,1 +1,1 @@
-GAN - VGG19 - Tranfer Style
+GAN - VGG19 - TRANSFER STYLE
